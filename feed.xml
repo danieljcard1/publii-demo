@@ -3,10 +3,30 @@
     <title>dan-publii-demo</title>
     <link href="https://danieljcard1.github.io/publii-demo/feed.xml" rel="self" />
     <link href="https://danieljcard1.github.io/publii-demo" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2020-10-12T14:57:57-05:00</updated>
     <author>
         <name>Dan Card</name>
     </author>
     <id>https://danieljcard1.github.io/publii-demo</id>
 
+    <entry>
+        <title>Hello world!</title>
+        <author>
+            <name>Dan Card</name>
+        </author>
+        <link href="https://danieljcard1.github.io/publii-demo/hello-world.html"/>
+        <id>https://danieljcard1.github.io/publii-demo/hello-world.html</id>
+
+        <updated>2020-10-12T14:57:57-05:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a test!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a test!</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
