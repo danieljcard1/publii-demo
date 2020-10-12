@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>dan-publii-demo</title>
+    <link href="https://danieljcard1.github.io/publii-demo/feed.xml" rel="self" />
+    <link href="https://danieljcard1.github.io/publii-demo" />
+    <updated>1969-12-31T18:00:00-06:00</updated>
+    <author>
+        <name>Dan Card</name>
+    </author>
+    <id>https://danieljcard1.github.io/publii-demo</id>
+
+</feed>
